@@ -1,4 +1,4 @@
-package lesson1;
+package lesson01;
 
 // lesson 1: class and object
 

@@ -1,4 +1,4 @@
-package lesson2 ;
+package lesson02;
 
 // lesson 2: Instance and Static variable and methods
 
